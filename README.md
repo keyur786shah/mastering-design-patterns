@@ -1,6 +1,6 @@
 # .net-design-patterns
 
-The goal is to cover what is desig patterns and why it important and how to use it in daily software developmemnt work.
+#The goal is to cover what is desig patterns and why it important and how to use it in daily software developmemnt work.
 
 |Topic          | Description   | Link |
 | ------------- | ------------- | ----- |
