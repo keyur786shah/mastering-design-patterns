@@ -1,0 +1,4 @@
+[submodule "submodules"]
+	path = submodules
+	url = git@bitbucket.org:adaware/payaware-core.git
+	branch = develop
