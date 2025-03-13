@@ -5,4 +5,4 @@
 |Topic          | Description   | Link |
 | ------------- | ------------- | ----- |
 | Design Patterns  | Design patterns are proven solutions to common software design problems. They provide a structured approach to writing maintainable, scalable, and efficient code.  | [Mastering Design Patterns](https://www.linkedin.com/feed/update/urn:li:activity:7305428658792402944)|
-| factory Pattern  | Creates objects without specifying their exact class.   | [Factory Design Pattern](https://www.linkedin.com/feed/update/urn:li:activity:7305428658792402944)|
+| factory Pattern  | Creates objects without specifying their exact class.   | [Factory Design Pattern](https://www.linkedin.com/posts/keyur786shah_masteringdesignpattern-designpatterns-whatabrareabrcreationalabrpatterns-activity-7305851570796093440-RkDS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUfbzIB9jXgLxmuZsZgf15rD8dqTMflp9M)|
