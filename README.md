@@ -7,5 +7,4 @@
 | Design Patterns  | Design patterns are proven solutions to common software design problems. They provide a structured approach to writing maintainable, scalable, and efficient code.  | [Mastering Design Patterns](https://www.linkedin.com/feed/update/urn:li:activity:7305428658792402944)|
 | factory Pattern  | Creates objects without specifying their exact class.   | [Factory Design Pattern](https://www.linkedin.com/feed/update/urn:li:activity:7305851570796093440/)|
 
-| Sigleton Pattern  | The Singleton Pattern ensures that a class has only one instance and provides a global access point to that instance.
-| [Singleton Design Pattern](https://www.linkedin.com/feed/update/urn:li:share:7306237556377985027/)|
+| Sigleton Pattern | The Singleton Pattern ensures that a class has only one instance and provides a global access point to that instance.| [Singleton Design Pattern](https://www.linkedin.com/feed/update/urn:li:share:7306237556377985027/)|
