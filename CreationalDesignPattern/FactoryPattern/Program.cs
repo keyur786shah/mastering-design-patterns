@@ -13,7 +13,7 @@ catch (Exception ex)
     Console.WriteLine($"Error: {ex.Message}");
 }
 Console.ReadLine();
-
+                
 public interface IPaymentGateway
 {
     void ProcessPayment();
