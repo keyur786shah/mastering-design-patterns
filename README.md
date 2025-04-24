@@ -12,3 +12,4 @@
 ||Structural Design Patterns||
 |Structural Design Pattern|Making Your Code More Organized and Scalable.|[Structural Design Pattern](https://www.linkedin.com/feed/update/urn:li:activity:7308031549508083712/)|
 |Adapter Design Pattern|Allows two incompatible interfaces to work together.|[Adapter Design Pattern](https://www.linkedin.com/feed/update/urn:li:share:7309880828644278273/)|
+|Decorator Pattern|Add Features Without Changing Code.|[Decorator Pattern](https://www.linkedin.com/feed/update/urn:li:share:7321100459694276608/)|
