@@ -60,5 +60,5 @@ class Program
         // Pay using PayPal
         cart.SetPaymentStrategy(new PayPalPayment());
         cart.Checkout(300);
-    }
+    } 
 }
