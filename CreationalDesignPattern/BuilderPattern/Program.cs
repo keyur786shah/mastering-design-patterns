@@ -27,7 +27,7 @@ public interface ICarBuilder
 // Step 3: Create a Concrete Builder
 public class CarBuilder : ICarBuilder
 {
-    private Car _car = new Car();
+    private Car _car = new Car(); 
 
     public ICarBuilder SetEngine(string engine)
     {
