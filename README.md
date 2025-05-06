@@ -16,6 +16,6 @@
 |Facade Pattern|one call, many things done behind the scenes!|[Facade Pattern](https://www.linkedin.com/feed/update/urn:li:activity:7321188321156644864/)|
 |Bridge Pattern|Bridge pattern separates logic and implementation|[Bridge Pattern](https://www.linkedin.com/feed/update/urn:li:ugcPost:7321362908213338112/)|
 |Composite Pattern|Organizes objects into tree-like structures easily.|[Composite Pattern](https://www.linkedin.com/feed/update/urn:li:share:7321904230674382848/)|
-|Proxy Pattern|Acts as a "middleman" between the client and the real object.|[Proxy Pattern]()|
+|Proxy Pattern|Acts as a "middleman" between the client and the real object.|[Proxy Pattern](https://www.linkedin.com/feed/update/urn:li:activity:7325002556663844864/)|
 ||Behavioural Design Patterns||
 |Strategy Pattern|Strategy Pattern lets you choose an algorithm or behavior at runtime. |[Strategy Pattern]()| 
