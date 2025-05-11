@@ -20,3 +20,5 @@
 ||**Behavioural Design Patterns**||
 |Strategy Pattern|Strategy Pattern lets you choose an algorithm or behavior at runtime. |[Strategy Pattern]()| 
 |Observer Pattern|When one object changes, all its dependents (observers) are automatically notified. |[Observer Pattern]()| 
+|Command Pattern|It encapsulates a command (what to do). |[Command Pattern]()| 
+
