@@ -19,5 +19,5 @@
 |Proxy Pattern|Acts as a "middleman" between the client and the real object.|[Proxy Pattern](https://www.linkedin.com/feed/update/urn:li:activity:7325002556663844864/)|
 ||**Behavioural Design Patterns**||
 |Strategy Pattern|Strategy Pattern lets you choose an algorithm or behavior at runtime. |[Strategy Pattern](https://www.linkedin.com/feed/update/urn:li:ugcPost:7322575266726182913/)| 
-|Observer Pattern|When one object changes, all its dependents (observers) are automatically notified. |[Observer Pattern]()| 
+|Observer Pattern|When one object changes, all its dependents (observers) are automatically notified. |[Observer Pattern](https://www.linkedin.com/feed/update/urn:li:activity:7330094865759866881/)| 
 |Command Pattern|It encapsulates a command (what to do). |[Command Pattern]()| 
